@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Cruise1601
-- 👀 I’m interested in Codding
+- 👋 Hi, I’m @Tony
+- 👀 I’m interested in webdevelopment
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on web development
 - 📫 Reach me via whatsApp @0726959766
